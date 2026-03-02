@@ -1,8 +1,9 @@
 # SpaceDodge
 
-<p align="center">
+<!-- <p align="center">
   <video src="assets/spacedodge.mov" autoplay loop controls width="700"></video>
-</p>
+</p> -->
+![SpaceDodge Screenshot](assets/spacedodge.png)
 
 > Survive. Dodge. Repeat.  
 > A fast-paced 2D arcade game built with Go + Ebiten.
